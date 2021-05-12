@@ -9,10 +9,11 @@ def main():
     x_tmp = np.reshape(np.transpose(x, [0, 2, 1, 3]), [-1, 60, 257])
     y_tmp = np.load('/AudioProject/trainingData/clean2.npy')
     y = y_tmp/x_tmp
+    y[y>1] = 1
     del x_tmp, y_tmp
 
     G = Genetic()
-    G.trainModel(x[:128], y[:128])
+    G.trainModel(x, y)
 
 if __name__ == '__main__':
     main()
