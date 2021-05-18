@@ -5,7 +5,7 @@ import os
 import copy
 from tensorflow.keras.applications import Xception
 from tensorflow.keras.utils import multi_gpu_model
-# os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 import threading
 from queue import Queue
 
