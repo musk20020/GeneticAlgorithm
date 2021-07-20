@@ -1,0 +1,329 @@
+Generation 0
+[[32, [7, 1], False, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.0684543177485466
+[[16, [5, 1], True, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.07372389733791351
+[[16, [7, 3], True, [1, 1], 128, [7, 1], False, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.07196589559316635
+[[64, [3, 1], True, [1, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06398159265518188
+[[64, [7, 1], True, [1, 1], 16, [3, 3], False, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.07119239866733551
+[[96, [5, 3], False, [1, 1], 64, [3, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, True]] : 0.04752683639526367
+[[8, [5, 1], False, [1, 1], 32, [7, 3], True, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.0604405552148819
+[[128, [7, 3], True, [1, 1], 8, [7, 3], False, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06882791966199875
+[[128, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06399610638618469
+[[32, [3, 3], False, [1, 1], 64, [7, 3], False, [1, 1], True, <function relu6 at 0x7fecde786048>, True]] : 0.06581267714500427
+[[96, [3, 3], True, [1, 1], 96, [3, 1], False, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.04344421625137329
+[[16, [3, 3], False, [1, 1], 32, [7, 1], False, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.2806186079978943
+[[64, [3, 3], True, [1, 1], 32, [3, 1], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True]] : 0.06459497660398483
+[[64, [5, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.06447111815214157
+[[16, [7, 1], False, [1, 1], 16, [3, 1], False, [1, 1], True, <function leaky_relu at 0x7fecde7860d0>, True]] : 0.06529399752616882
+[[8, [5, 3], False, [1, 1], 128, [3, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.08139225095510483
+[[32, [5, 3], False, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06484168767929077
+[[128, [7, 1], True, [1, 1], 32, [7, 3], False, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.40853118896484375
+[[16, [7, 1], True, [1, 1], 96, [5, 3], False, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06301990151405334
+[[96, [3, 3], False, [1, 1], 32, [3, 3], False, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.0704173669219017
+[[64, [7, 3], True, [1, 1], 128, [5, 1], False, [1, 1], True, <function leaky_relu at 0x7fecde7860d0>, True]] : 0.40853118896484375
+[[96, [5, 3], False, [1, 1], 96, [7, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, True]] : 0.05955744534730911
+[[64, [5, 1], True, [1, 1], 64, [7, 1], True, [1, 1], False, <function relu6 at 0x7fecde786048>, True]] : 0.07446136325597763
+[[16, [5, 1], False, [1, 1], 128, [7, 1], False, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.04376470297574997
+[[16, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True]] : 0.054488830268383026
+[[64, [7, 1], False, [1, 1], 96, [7, 3], True, [1, 1], True, <function relu6 at 0x7fecde786048>, True]] : 0.048680756241083145
+[[64, [5, 3], True, [1, 1], 128, [7, 3], True, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.4085313081741333
+[[64, [7, 1], True, [1, 1], 8, [3, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05869971960783005
+[[32, [7, 3], True, [1, 1], 16, [5, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.07572126388549805
+[[16, [7, 3], False, [1, 1], 96, [5, 3], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.062052272260189056
+Generation 1
+[[16, [5, 1], True, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06456119567155838
+[[64, [3, 1], True, [1, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.04763459786772728
+[[96, [5, 3], False, [1, 1], 64, [3, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, True]] : 0.06806682050228119
+[[8, [5, 1], False, [1, 1], 32, [7, 3], True, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.0650874450802803
+[[128, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06195894628763199
+[[96, [3, 3], True, [1, 1], 96, [3, 1], False, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.35307827591896057
+[[64, [3, 3], True, [1, 1], 32, [3, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, True]] : 0.06459688395261765
+[[64, [5, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.06517323106527328
+[[16, [7, 1], False, [1, 1], 16, [3, 1], False, [1, 1], True, <function leaky_relu at 0x7fecde7860d0>, True]] : 0.10894089937210083
+[[32, [5, 3], False, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.0614999495446682
+[[16, [7, 1], True, [1, 1], 96, [5, 3], False, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06964512169361115
+[[96, [3, 3], False, [1, 1], 32, [3, 3], False, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.06623914837837219
+[[96, [5, 3], False, [1, 1], 96, [7, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, True]] : 0.06504940241575241
+[[16, [5, 1], False, [1, 1], 128, [7, 1], False, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.0754372701048851
+[[16, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False]] : 0.043236613273620605
+[[64, [7, 1], False, [1, 1], 96, [7, 3], True, [1, 1], True, <function relu6 at 0x7fecde786048>, True]] : 0.08184260129928589
+[[64, [7, 1], True, [1, 1], 8, [3, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05370081588625908
+[[16, [7, 3], False, [1, 1], 96, [7, 7], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.047939714044332504
+[[96, [7, 1], False, [1, 1], 32, [5, 3], False, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06690098345279694
+[[16, [5, 1], True, [1, 1], 8, [7, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.05603024363517761
+[[64, [7, 1], True, [1, 1], 8, [5, 3], False, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.0675598755478859
+[[16, [5, 1], False, [1, 1], 8, [7, 1], False, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.06251979619264603
+[[16, [3, 3], True, [1, 1], 8, [3, 1], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True]] : 0.06972065567970276
+[[96, [5, 3], False, [2, 1], 64, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.050890736281871796
+[[8, [7, 1], False, [1, 1], 32, [7, 3], True, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.05910056456923485
+[[64, [7, 1], True, [1, 1], 8, [5, 3], False, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.05678031966090202
+[[16, [5, 1], False, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.07233791798353195
+[[64, [7, 1], True, [1, 1], 8, [3, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.05958370864391327
+[[64, [3, 3], True, [1, 1], 8, [3, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06661855429410934
+[[96, [7, 1], True, [1, 1], 32, [3, 1], False, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.07454591989517212
+Generation 2
+[[16, [5, 1], True, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06400104612112045
+[[64, [3, 1], True, [1, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06903214752674103
+[[8, [5, 1], False, [1, 1], 32, [7, 3], True, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.06842877715826035
+[[128, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06348507851362228
+[[96, [3, 3], True, [1, 1], 96, [3, 1], False, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.40853118896484375
+[[64, [3, 3], True, [1, 1], 32, [3, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, True]] : 0.06173722818493843
+[[32, [5, 3], False, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06463354080915451
+[[96, [5, 3], False, [1, 1], 96, [7, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, True]] : 0.0664435476064682
+[[16, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False]] : 0.043580539524555206
+[[64, [7, 7], True, [1, 1], 8, [3, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06839389353990555
+[[16, [7, 3], False, [1, 1], 96, [7, 7], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.05690056085586548
+[[16, [5, 1], True, [1, 1], 8, [7, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.05465422943234444
+[[16, [5, 1], False, [1, 1], 8, [7, 1], False, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.0703207477927208
+[[96, [5, 3], False, [2, 1], 64, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.060998350381851196
+[[8, [7, 1], False, [1, 1], 32, [7, 3], True, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.04950439929962158
+[[64, [7, 1], True, [1, 1], 8, [5, 3], False, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.0663009062409401
+[[64, [7, 1], True, [1, 1], 8, [3, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.06360013782978058
+[[32, [5, 3], False, [1, 1], 32, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.05593031272292137
+[[16, [5, 1], True, [1, 1], 16, [7, 3], False, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.07067294418811798
+[[16, [5, 3], True, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.07140904664993286
+[[8, [5, 5], False, [1, 1], 96, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.06225798651576042
+[[8, [7, 1], True, [1, 1], 8, [3, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.061346180737018585
+[[128, [7, 1], True, [1, 1], 8, [7, 3], True, [1, 1], False, <function relu6 at 0x7fecde786048>, False]] : 0.049581266939640045
+[[64, [3, 3], True, [1, 1], 32, [5, 5], False, [1, 1], True, <function relu6 at 0x7fecde786048>, True]] : 0.06577973067760468
+[[96, [5, 3], False, [2, 1], 64, [7, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.07822024822235107
+[[16, [7, 1], False, [1, 1], 8, [7, 3], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.06604963541030884
+[[128, [7, 1], True, [1, 1], 8, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.049528252333402634
+[[16, [7, 1], False, [1, 1], 8, [5, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05542373284697533
+[[64, [5, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05409076809883118
+[[16, [3, 3], True, [1, 1], 96, [3, 1], False, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06889375299215317
+Generation 3
+[[16, [3, 3], True, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.0562928169965744
+[[128, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06332828104496002
+[[64, [3, 3], True, [1, 1], 32, [3, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, True]] : 0.0640551820397377
+[[32, [5, 3], False, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06489649415016174
+[[16, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False]] : 0.055736228823661804
+[[64, [7, 7], True, [1, 1], 8, [3, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06832285225391388
+[[16, [7, 3], False, [1, 1], 96, [7, 7], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06553208082914352
+[[16, [5, 1], True, [1, 1], 8, [7, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.049132827669382095
+[[96, [5, 3], False, [2, 1], 64, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05467307195067406
+[[128, [7, 1], False, [1, 1], 32, [7, 3], True, [1, 1], False, <function tanh at 0x7fec7404eae8>, True]] : 0.0682419091463089
+[[64, [7, 1], True, [1, 1], 8, [3, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.06329557299613953
+[[32, [5, 3], False, [1, 1], 32, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.05444891005754471
+[[8, [5, 5], False, [1, 1], 96, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.06191733852028847
+[[8, [7, 1], True, [1, 1], 8, [5, 5], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06655415892601013
+[[128, [7, 1], True, [1, 1], 8, [7, 3], True, [1, 1], False, <function relu6 at 0x7fecde786048>, False]] : 0.06528082489967346
+[[128, [7, 1], True, [1, 1], 8, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.055474843829870224
+[[16, [7, 1], False, [1, 1], 8, [5, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05344780161976814
+[[64, [5, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.0670895129442215
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.06392902135848999
+[[64, [7, 7], False, [1, 1], 96, [3, 1], False, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.06263042986392975
+[[32, [5, 3], False, [1, 1], 32, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.044225063174963
+[[96, [7, 7], True, [2, 1], 8, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06611036509275436
+[[64, [7, 1], True, [1, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06255011260509491
+[[8, [7, 1], False, [1, 1], 96, [5, 5], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.05248456448316574
+[[64, [7, 1], True, [1, 1], 96, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.06088164448738098
+[[128, [7, 1], True, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.0645582377910614
+[[16, [7, 3], False, [1, 1], 16, [7, 3], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06283046305179596
+[[16, [7, 1], False, [1, 1], 8, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.0619291290640831
+[[64, [7, 7], True, [1, 1], 32, [3, 1], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True]] : 0.08616233617067337
+[[96, [7, 3], True, [1, 1], 8, [3, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06769692152738571
+Generation 4
+[[16, [3, 3], True, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06535179167985916
+[[32, [5, 3], False, [1, 1], 96, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.0738169252872467
+[[16, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False]] : 0.06388375163078308
+[[16, [5, 1], True, [1, 1], 8, [7, 1], False, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.06636457145214081
+[[96, [5, 3], False, [2, 1], 64, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.060736704617738724
+[[64, [7, 1], True, [1, 1], 16, [3, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.05004756152629852
+[[32, [5, 3], False, [1, 1], 32, [7, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.0735020563006401
+[[8, [5, 5], False, [1, 1], 96, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.06570246070623398
+[[8, [7, 1], True, [1, 1], 8, [5, 5], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06402337551116943
+[[128, [7, 1], True, [1, 1], 8, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.055273398756980896
+[[16, [7, 1], False, [1, 1], 8, [5, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05332943797111511
+[[64, [7, 7], False, [4, 1], 96, [3, 1], False, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.06933543086051941
+[[32, [5, 3], False, [1, 1], 32, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.06654270738363266
+[[64, [7, 1], True, [1, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06401877105236053
+[[8, [7, 1], False, [1, 1], 96, [5, 5], True, [4, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.40853142738342285
+[[64, [7, 1], True, [1, 1], 96, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.07307273894548416
+[[16, [7, 3], False, [1, 1], 16, [7, 3], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.061301201581954956
+[[16, [7, 1], False, [1, 1], 8, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06458448618650436
+[[16, [5, 3], False, [1, 1], 8, [7, 1], False, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.06626813858747482
+[[128, [7, 1], True, [1, 1], 8, [3, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.05407744273543358
+[[16, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True]] : 0.07293815165758133
+[[16, [3, 3], True, [1, 1], 96, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.06883465498685837
+[[64, [7, 1], True, [1, 1], 8, [5, 5], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05605265125632286
+[[32, [5, 3], False, [1, 1], 8, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.06321398168802261
+[[8, [5, 5], False, [1, 1], 96, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.07150130718946457
+[[8, [5, 5], False, [1, 1], 96, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True]] : 0.0461975559592247
+[[128, [7, 1], True, [1, 1], 8, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.07103198021650314
+[[96, [5, 5], False, [1, 1], 64, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.06486387550830841
+[[64, [7, 1], False, [2, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06387375295162201
+[[96, [5, 3], False, [2, 1], 64, [3, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.05852792039513588
+Generation 0
+[[16, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False], [16, [7, 1], True, [2, 1], 8, [5, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, False]] : 0.06171754002571106
+[[96, [5, 3], True, [2, 1], 64, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], False, [1, 1], 16, [5, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, False]] : 0.06574791669845581
+[[64, [7, 1], True, [1, 1], 16, [3, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True], [128, [5, 1], False, [2, 1], 96, [7, 1], False, [4, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05232556164264679
+[[8, [7, 1], True, [1, 1], 8, [5, 5], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [7, 1], False, [2, 1], 32, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.045834191143512726
+[[128, [7, 1], True, [1, 1], 64, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [8, [5, 1], True, [2, 1], 8, [3, 1], True, [4, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.05101590231060982
+[[16, [7, 1], False, [1, 1], 8, [5, 3], False, [4, 1], False, <function relu at 0x7fec73e4e9d8>, True], [128, [5, 1], False, [1, 1], 64, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.0586971789598465
+[[32, [5, 3], False, [1, 1], 32, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [96, [5, 1], False, [4, 1], 96, [3, 1], True, [4, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.0641569271683693
+[[64, [7, 1], True, [1, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [64, [3, 1], True, [1, 1], 16, [5, 1], False, [4, 1], False, <function relu at 0x7fec73e4e9d8>, False]] : 0.06481506675481796
+[[16, [7, 3], False, [1, 1], 16, [7, 3], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, False], [16, [7, 1], False, [1, 1], 8, [3, 1], False, [1, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.06323768198490143
+[[16, [7, 1], False, [1, 1], 8, [3, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [5, 1], True, [1, 1], 64, [5, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.056362371891736984
+[[128, [7, 1], True, [1, 1], 8, [3, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [128, [5, 1], False, [2, 1], 32, [7, 1], True, [4, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.24725233018398285
+[[64, [7, 1], True, [1, 1], 8, [5, 5], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [5, 1], True, [4, 1], 32, [7, 1], True, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.06731397658586502
+[[32, [5, 3], False, [1, 1], 8, [7, 1], False, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [128, [3, 1], True, [1, 1], 16, [3, 1], False, [1, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.051984746009111404
+[[8, [5, 5], False, [1, 1], 96, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True], [64, [3, 1], True, [4, 1], 96, [5, 1], True, [2, 1], True, <function relu6 at 0x7fecde786048>, False]] : 0.40853339433670044
+[[96, [5, 5], False, [1, 1], 64, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [32, [7, 1], True, [1, 1], 128, [5, 1], False, [2, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.044955018907785416
+[[64, [7, 1], False, [2, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [4, 1], 96, [3, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.059165045619010925
+[[96, [5, 3], False, [2, 1], 64, [3, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True], [16, [3, 1], False, [2, 1], 64, [7, 1], True, [4, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.13187669217586517
+[[32, [7, 1], False, [1, 1], 8, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [128, [7, 1], True, [2, 1], 128, [7, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.40853214263916016
+[[64, [7, 1], False, [1, 1], 16, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [5, 1], True, [4, 1], 96, [7, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.061658915132284164
+[[64, [7, 1], False, [1, 1], 8, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [4, 1], 32, [3, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.1302112191915512
+[[16, [5, 3], False, [1, 1], 32, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [16, [7, 1], False, [2, 1], 96, [5, 1], True, [2, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.10349947214126587
+[[64, [7, 1], False, [1, 1], 8, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [64, [3, 1], True, [1, 1], 64, [3, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06306827813386917
+[[16, [5, 3], False, [1, 1], 8, [3, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [32, [3, 1], False, [1, 1], 8, [5, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.06326022744178772
+[[64, [7, 1], False, [2, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [5, 1], True, [4, 1], 128, [3, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.18054302036762238
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], False, [1, 1], 128, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06014903634786606
+[[16, [5, 3], False, [2, 1], 64, [3, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [8, [7, 1], False, [2, 1], 96, [3, 1], False, [2, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.06048135831952095
+[[128, [7, 1], True, [1, 1], 8, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [32, [5, 1], False, [4, 1], 64, [5, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, True]] : 0.40152251720428467
+[[128, [7, 1], True, [1, 1], 8, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [16, [3, 1], False, [4, 1], 64, [3, 1], True, [2, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.047808557748794556
+[[8, [7, 1], False, [1, 1], 8, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [2, 1], 64, [7, 1], False, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.17508172988891602
+[[64, [5, 3], True, [1, 1], 32, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 32, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.05927346646785736
+Generation 1
+[[16, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False], [16, [7, 1], True, [2, 1], 8, [5, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, False]] : 0.059920452535152435
+[[96, [5, 3], True, [2, 1], 64, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], False, [1, 1], 16, [5, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, False]] : 0.06119488179683685
+[[64, [7, 1], True, [1, 1], 16, [3, 1], True, [1, 1], True, <function tanh at 0x7fec7404eae8>, True], [128, [5, 1], False, [2, 1], 96, [7, 1], False, [4, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.40712836384773254
+[[8, [7, 1], True, [1, 1], 8, [5, 5], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [7, 1], False, [2, 1], 32, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.04501757398247719
+[[128, [7, 1], True, [1, 1], 64, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [8, [5, 1], True, [2, 1], 8, [3, 1], True, [4, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.04984014108777046
+[[16, [7, 1], False, [1, 1], 8, [5, 3], False, [4, 1], False, <function relu at 0x7fec73e4e9d8>, True], [128, [5, 1], False, [1, 1], 64, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.05968235433101654
+[[16, [7, 3], False, [1, 1], 16, [7, 3], True, [4, 1], True, <function selu at 0x7fec73e7c2f0>, False], [16, [7, 1], False, [1, 1], 8, [3, 1], False, [1, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.06418072432279587
+[[16, [7, 1], False, [1, 1], 8, [3, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [5, 1], True, [1, 1], 64, [5, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.19065947830677032
+[[32, [5, 3], False, [1, 1], 8, [7, 1], False, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [128, [3, 1], True, [1, 1], 16, [3, 1], False, [1, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.40853214263916016
+[[96, [5, 5], False, [1, 1], 64, [7, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [32, [7, 1], True, [1, 1], 128, [5, 1], False, [2, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.13202060759067535
+[[64, [7, 1], False, [2, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [4, 1], 96, [3, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.051994439214468
+[[64, [7, 1], False, [1, 1], 16, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [5, 1], True, [4, 1], 96, [7, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.40853118896484375
+[[64, [7, 1], False, [1, 1], 8, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [64, [3, 1], True, [1, 1], 64, [3, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.3401356339454651
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], False, [1, 1], 128, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06005706638097763
+[[16, [5, 3], False, [2, 1], 64, [3, 1], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [8, [7, 1], False, [2, 1], 96, [3, 1], False, [2, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.3726124167442322
+[[128, [7, 1], True, [1, 1], 8, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [16, [3, 1], False, [4, 1], 64, [3, 1], True, [2, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.05341354012489319
+[[64, [5, 3], True, [1, 1], 32, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 32, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.06072142720222473
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], True, [1, 1], 128, [3, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.40853118896484375
+[[64, [5, 3], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 32, [7, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.08934123069047928
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], False, [1, 1], 128, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.04409952089190483
+[[8, [5, 3], True, [1, 1], 8, [5, 5], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], False, [2, 1], 32, [7, 1], False, [4, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.4010496437549591
+[[32, [5, 3], False, [1, 1], 16, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [16, [7, 1], False, [1, 1], 16, [3, 1], False, [1, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.06364769488573074
+[[64, [7, 1], True, [1, 1], 8, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, False], [16, [7, 1], True, [1, 1], 8, [3, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.057115599513053894
+[[64, [7, 1], False, [2, 1], 64, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [1, 1], 96, [5, 1], False, [2, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.055328477174043655
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 8, [3, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.055821049958467484
+[[16, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [8, [3, 1], False, [2, 1], 8, [3, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.049396466463804245
+[[8, [5, 3], True, [1, 1], 8, [5, 5], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], False, [1, 1], 128, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.4012482762336731
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [2, 1], 8, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.048164933919906616
+[[96, [5, 3], True, [1, 1], 16, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 16, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.05009930580854416
+[[64, [7, 1], True, [2, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], True, [1, 1], 128, [3, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.40853118896484375
+Generation 2
+[[16, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False], [16, [7, 1], True, [2, 1], 8, [5, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, False]] : 0.0597420260310173
+[[96, [5, 3], True, [2, 1], 64, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], False, [1, 1], 16, [5, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, False]] : 0.048614196479320526
+[[8, [7, 1], True, [1, 1], 8, [5, 5], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [7, 1], False, [2, 1], 32, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.0742519348859787
+[[128, [7, 1], True, [1, 1], 64, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [8, [5, 1], True, [2, 1], 8, [3, 1], True, [4, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.24695031344890594
+[[16, [7, 1], False, [1, 1], 8, [5, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [128, [5, 1], False, [1, 1], 64, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.4085314869880676
+[[32, [5, 3], False, [1, 1], 8, [7, 1], False, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [128, [3, 1], True, [1, 1], 16, [3, 1], False, [1, 1], False, <function tanh at 0x7fec7404eae8>, False]] : 0.0591045580804348
+[[64, [7, 1], False, [2, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [4, 1], 96, [3, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.059518590569496155
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], False, [1, 1], 128, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.061641301959753036
+[[128, [7, 1], True, [1, 1], 8, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [16, [3, 1], False, [4, 1], 64, [3, 1], True, [2, 1], False, <function selu at 0x7fec73e7c2f0>, False]] : 0.39175692200660706
+[[64, [5, 3], True, [1, 1], 32, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 32, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.11228487640619278
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], True, [1, 1], 128, [3, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.40853118896484375
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], False, [1, 1], 128, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.40268459916114807
+[[64, [7, 1], True, [1, 1], 8, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, False], [16, [7, 1], True, [1, 1], 8, [3, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.06555211544036865
+[[64, [7, 1], False, [2, 1], 64, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [1, 1], 96, [5, 1], False, [2, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.048775508999824524
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 8, [3, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06120697408914566
+[[16, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [8, [3, 1], False, [2, 1], 8, [3, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05639197304844856
+[[64, [7, 1], True, [1, 1], 96, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [2, 1], 8, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.054645199328660965
+[[96, [5, 3], True, [1, 1], 16, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 16, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.04658746346831322
+[[64, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [2, 1], 8, [5, 1], False, [1, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.046540241688489914
+[[64, [5, 3], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 8, [3, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.05616026744246483
+[[16, [7, 1], False, [1, 1], 8, [5, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [5, 1], True, [1, 1], 64, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.20386363565921783
+[[8, [5, 3], True, [1, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [7, 1], False, [1, 1], 32, [3, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.06668056547641754
+[[64, [7, 1], True, [2, 1], 8, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [1, 1], 96, [5, 1], False, [2, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.05570845678448677
+[[64, [7, 1], True, [1, 1], 64, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [96, [3, 1], False, [1, 1], 128, [3, 1], False, [4, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.40853118896484375
+[[64, [5, 3], True, [2, 1], 16, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], False, [1, 1], 16, [5, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.06008600816130638
+[[64, [7, 1], True, [2, 1], 64, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [1, 1], 96, [5, 1], False, [2, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.05648268014192581
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], True, [1, 1], 128, [3, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.38707882165908813
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [96, [3, 1], False, [1, 1], 128, [3, 1], False, [4, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05504857003688812
+[[64, [7, 1], True, [2, 1], 32, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 96, [3, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, False]] : 0.4028497040271759
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], False, [1, 1], 128, [3, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.40853118896484375
+Generation 3
+[[16, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False], [16, [7, 1], True, [2, 1], 8, [5, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, False]] : 0.059339866042137146
+[[96, [5, 3], True, [2, 1], 64, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], False, [1, 1], 16, [5, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, False]] : 0.04697740077972412
+[[16, [7, 1], False, [1, 1], 8, [5, 3], False, [1, 1], False, <function tanh at 0x7fec7404eae8>, True], [128, [5, 1], False, [1, 1], 64, [5, 1], False, [4, 1], True, <function relu6 at 0x7fecde786048>, False]] : 0.33876892924308777
+[[32, [5, 3], False, [1, 1], 8, [7, 1], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True], [128, [3, 1], True, [1, 1], 16, [3, 1], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False]] : 0.05443461984395981
+[[64, [7, 1], False, [2, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [4, 1], 96, [3, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.07180019468069077
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], False, [1, 1], 128, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.40399882197380066
+[[64, [5, 3], True, [1, 1], 32, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 32, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.04875817522406578
+[[64, [7, 1], False, [2, 1], 64, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [1, 1], 96, [5, 1], False, [2, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.062478359788656235
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 8, [3, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.0629078596830368
+[[16, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [8, [3, 1], False, [2, 1], 8, [3, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05925009399652481
+[[64, [7, 1], True, [1, 1], 96, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [2, 1], 8, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.04817340150475502
+[[96, [5, 3], True, [1, 1], 16, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 16, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.04705946147441864
+[[64, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [2, 1], 8, [5, 1], False, [1, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.04751017689704895
+[[64, [5, 3], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 8, [3, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.06391283124685287
+[[64, [7, 1], True, [2, 1], 8, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [1, 1], 96, [5, 1], False, [4, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.057543639093637466
+[[64, [5, 3], True, [2, 1], 16, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], False, [1, 1], 16, [5, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.10056605935096741
+[[64, [7, 1], True, [2, 1], 64, [7, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [1, 1], 96, [5, 1], False, [2, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.05700534209609032
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [96, [3, 1], False, [1, 1], 128, [3, 1], False, [4, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.394590824842453
+[[16, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False], [16, [7, 1], True, [2, 1], 8, [5, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, False]] : 0.06285101920366287
+[[16, [5, 3], True, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False], [16, [3, 1], False, [2, 1], 8, [5, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.05949889123439789
+[[16, [7, 1], False, [1, 1], 8, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [128, [3, 1], False, [2, 1], 16, [3, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, False]] : 0.40750357508659363
+[[16, [5, 3], True, [1, 1], 8, [3, 1], True, [1, 1], False, <function relu6 at 0x7fecde786048>, True], [16, [7, 1], False, [2, 1], 16, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.05641574785113335
+[[16, [5, 3], False, [1, 1], 8, [5, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True], [128, [7, 1], False, [2, 1], 16, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.04912983253598213
+[[16, [5, 3], True, [1, 1], 16, [7, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [2, 1], 8, [7, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.04244324192404747
+[[64, [7, 1], False, [2, 1], 16, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [1, 1], 96, [5, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.049473512917757034
+[[16, [5, 3], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [2, 1], 8, [3, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.055762480944395065
+[[16, [5, 3], False, [2, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [7, 1], True, [4, 1], 16, [5, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.057074010372161865
+[[64, [7, 1], True, [1, 1], 96, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [2, 1], 8, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.051992472261190414
+[[64, [7, 1], True, [1, 1], 96, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [8, [3, 1], False, [2, 1], 8, [7, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, False]] : 0.05672656372189522
+[[16, [7, 1], False, [1, 1], 8, [5, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [128, [7, 1], True, [1, 1], 64, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.04578671604394913
+Generation 4
+[[16, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False], [16, [7, 1], False, [2, 1], 8, [5, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, False]] : 0.055807698518037796
+[[96, [5, 3], True, [2, 1], 64, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], False, [1, 1], 16, [5, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, False]] : 0.05408761650323868
+[[32, [5, 3], False, [1, 1], 8, [7, 1], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True], [128, [3, 1], True, [1, 1], 16, [3, 1], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False]] : 0.40853118896484375
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], False, [1, 1], 128, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06348692625761032
+[[64, [5, 3], True, [1, 1], 32, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 32, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.0478704571723938
+[[64, [7, 1], True, [1, 1], 96, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [2, 1], 8, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.40593424439430237
+[[64, [5, 3], True, [1, 1], 16, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 16, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.10007709264755249
+[[64, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [2, 1], 8, [5, 1], False, [1, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.05517256259918213
+[[64, [5, 3], True, [2, 1], 16, [3, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], False, [1, 1], 16, [5, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.13186155259609222
+[[64, [7, 1], True, [2, 1], 64, [7, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [1, 1], 96, [5, 1], False, [2, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.06342560052871704
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [96, [3, 1], False, [1, 1], 128, [3, 1], False, [4, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.057212211191654205
+[[16, [5, 3], True, [1, 1], 8, [3, 1], True, [1, 1], False, <function relu6 at 0x7fecde786048>, True], [16, [7, 1], False, [2, 1], 16, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.4007938504219055
+[[16, [5, 3], False, [1, 1], 8, [5, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True], [128, [7, 1], False, [2, 1], 16, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.04910885542631149
+[[16, [5, 3], True, [1, 1], 16, [7, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [2, 1], 8, [7, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.06036173552274704
+[[64, [7, 1], False, [2, 1], 16, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [1, 1], 96, [5, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.04283026605844498
+[[16, [5, 3], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [2, 1], 8, [3, 1], True, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.05086330696940422
+[[16, [5, 3], False, [2, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [7, 1], True, [4, 1], 16, [5, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.061005230993032455
+[[64, [7, 1], True, [1, 1], 96, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [2, 1], 8, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.04657432436943054
+[[64, [7, 1], True, [1, 1], 96, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [8, [3, 1], False, [2, 1], 8, [7, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, False]] : 0.051928821951150894
+[[16, [7, 1], False, [1, 1], 8, [5, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [128, [7, 1], True, [1, 1], 64, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.055492158979177475
+[[64, [5, 3], True, [1, 1], 96, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [128, [3, 1], False, [2, 1], 16, [7, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.40853118896484375
+[[96, [7, 1], True, [2, 1], 64, [7, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [1, 1], 96, [5, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, False]] : 0.044979870319366455
+[[16, [7, 1], False, [1, 1], 96, [7, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [2, 1], 8, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, False]] : 0.40036505460739136
+[[64, [7, 1], True, [1, 1], 16, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], False, [1, 1], 96, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.05479493737220764
+[[64, [7, 1], True, [2, 1], 96, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [2, 1], 8, [5, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05610576272010803
+[[16, [7, 1], False, [1, 1], 8, [7, 1], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True], [128, [3, 1], True, [1, 1], 64, [3, 1], False, [4, 1], False, <function relu6 at 0x7fecde786048>, False]] : 0.058972716331481934
+[[16, [5, 3], True, [1, 1], 8, [3, 1], True, [1, 1], False, <function relu6 at 0x7fecde786048>, True], [16, [7, 1], False, [2, 1], 32, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.04705321416258812
+[[64, [7, 1], True, [2, 1], 16, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [1, 1], 96, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.0573141910135746
+[[64, [5, 3], True, [2, 1], 32, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [2, 1], 32, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.06162447854876518
+[[16, [7, 1], True, [1, 1], 16, [3, 1], True, [1, 1], False, <function relu6 at 0x7fecde786048>, False], [16, [7, 1], False, [1, 1], 8, [5, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, False]] : 0.056726984679698944
+Generation 0
+[[16, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, False], [16, [7, 1], False, [2, 1], 8, [5, 1], False, [1, 1], True, <function relu6 at 0x7fecde786048>, False], [64, [7, 1], True, [2, 1], 64, [7, 1], False, [4, 1], True, <function relu6 at 0x7fecde786048>, True]] : 0.047330424189567566
+[[96, [5, 3], True, [2, 1], 64, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [96, [3, 1], False, [1, 1], 16, [5, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, False], [128, [3, 1], False, [4, 1], 64, [3, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.2898140251636505
+[[64, [5, 3], True, [1, 1], 32, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 32, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True], [64, [5, 1], True, [4, 1], 64, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.04543764144182205
+[[64, [5, 3], True, [1, 1], 16, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [1, 1], 16, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True], [16, [7, 1], True, [4, 1], 64, [3, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.23887506127357483
+[[64, [7, 1], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [2, 1], 8, [5, 1], False, [1, 1], True, <function selu at 0x7fec73e7c2f0>, False], [32, [7, 1], True, [4, 1], 128, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.37717822194099426
+[[64, [7, 1], True, [1, 1], 16, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [96, [3, 1], False, [1, 1], 128, [3, 1], False, [4, 1], False, <function relu at 0x7fec73e4e9d8>, True], [128, [7, 1], False, [1, 1], 128, [5, 1], True, [1, 1], True, <function selu at 0x7fec73e7c2f0>, False]] : 0.047549959272146225
+[[16, [5, 3], False, [1, 1], 8, [5, 3], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True], [128, [7, 1], False, [2, 1], 16, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False], [128, [3, 1], True, [1, 1], 16, [3, 1], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True]] : 0.06395706534385681
+[[64, [7, 1], False, [2, 1], 16, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], True, [1, 1], 96, [5, 1], False, [2, 1], True, <function relu at 0x7fec73e4e9d8>, False], [32, [5, 1], True, [1, 1], 16, [7, 1], False, [1, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.05483667179942131
+[[16, [5, 3], False, [1, 1], 8, [7, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [2, 1], 8, [3, 1], True, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True], [128, [3, 1], True, [2, 1], 8, [7, 1], True, [4, 1], False, <function relu at 0x7fec73e4e9d8>, False]] : 0.044519487768411636
+[[16, [5, 3], False, [2, 1], 8, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [7, 1], True, [4, 1], 16, [5, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, False], [32, [3, 1], True, [2, 1], 64, [3, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.06376881152391434
+[[64, [7, 1], True, [1, 1], 96, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [2, 1], 8, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True], [64, [5, 1], True, [2, 1], 96, [7, 1], True, [2, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.0459761805832386
+[[64, [7, 1], True, [1, 1], 96, [7, 3], True, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True], [8, [3, 1], False, [2, 1], 8, [7, 1], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, False], [128, [3, 1], True, [2, 1], 32, [3, 1], False, [1, 1], False, <function selu at 0x7fec73e7c2f0>, True]] : 0.05790330469608307
+[[16, [7, 1], False, [1, 1], 8, [5, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [128, [7, 1], True, [1, 1], 64, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, False], [32, [3, 1], True, [2, 1], 128, [3, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.05202660337090492
+[[96, [7, 1], True, [2, 1], 64, [7, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [1, 1], 96, [5, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, False], [32, [7, 1], True, [2, 1], 32, [7, 1], False, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.13582487404346466
+[[16, [7, 1], False, [1, 1], 96, [7, 3], False, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [16, [3, 1], False, [2, 1], 8, [7, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, False], [8, [7, 1], True, [1, 1], 16, [3, 1], True, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True]] : 0.06195652857422829
+[[64, [7, 1], True, [1, 1], 16, [7, 1], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [32, [3, 1], False, [1, 1], 96, [5, 1], False, [4, 1], True, <function relu at 0x7fec73e4e9d8>, True], [32, [7, 1], False, [4, 1], 96, [5, 1], True, [1, 1], True, <function relu at 0x7fec73e4e9d8>, True]] : 0.40853118896484375
+[[64, [7, 1], True, [2, 1], 96, [7, 3], True, [1, 1], False, <function relu at 0x7fec73e4e9d8>, True], [8, [3, 1], False, [2, 1], 8, [5, 1], False, [2, 1], False, <function relu at 0x7fec73e4e9d8>, True], [128, [5, 1], False, [4, 1], 96, [7, 1], True, [2, 1], True, <function relu at 0x7fec73e4e9d8>, False]] : 0.40853118896484375
+[[16, [7, 1], False, [1, 1], 8, [7, 1], False, [1, 1], False, <function relu6 at 0x7fecde786048>, True], [128, [3, 1], True, [1, 1], 64, [3, 1], False, [4, 1], False, <function relu6 at 0x7fecde786048>, False], [64, [7, 1], False, [4, 1], 128, [5, 1], False, [2, 1], False, <function relu6 at 0x7fecde786048>, True]] : 0.04613960161805153

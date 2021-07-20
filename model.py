@@ -5,9 +5,10 @@ import os
 import copy
 from tensorflow.keras.applications import Xception
 from tensorflow.keras.utils import multi_gpu_model
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+# os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 import threading
 from queue import Queue
+tf.random.set_seed(100)
 
 class Genetic:
 
@@ -20,20 +21,21 @@ class Genetic:
         self.survivalRate = 0.2
         self.mutateRate = 0.2
         self.epoch = 10
-        self.batchSize = 64
+        self.batchSize = 32
 
         ## ============= genetic setting ===============
         self.activation = [tf.nn.relu, tf.nn.leaky_relu, tf.nn.selu, tf.nn.relu6, tf.nn.tanh]
         self.skipLayer = [True, False]
 
-        self.outputChannal = [8, 16, 32, 64, 96, 128, 150]
-        self.kernelSzie_init_w = [1, 3, 5]
+        self.outputChannal = [8, 16, 32, 64, 96, 128]
+        self.kernelSzie_init_w = [1, 3]
         self.kernelSzie_init_h = [3, 5, 7]
         self.BN = [True, False]
 
         self.kernelSzie = [3, 5, 7]
-        self.dilation = [1, 2, 4, 8, 16, 32]
+        self.dilation = [1, 2, 4]
         self.twoLayer = [True, False]
+        # os.environ['CUDA_VISIBLE_DEVICES']="0,1,2"
 
     def initialPopulation(self):
         activation = np.random.choice(self.activation )
@@ -124,6 +126,11 @@ class Genetic:
     def genModel(self, genetic):
         ## genetic is a 2D array, each row is a one/two layer model structure
         kerasModel = []
+        # convinit1 = tf.keras.layers.Conv2D(filters=64, kernel_size=[5,3], padding='same', activation=tf.nn.leaky_relu)
+        # convinit2 = tf.keras.layers.Conv2D(filters=64, kernel_size=[3,3], padding='same', activation=tf.nn.leaky_relu)
+        # kerasModel.append(convinit1)
+        # kerasModel.append(convinit2)
+
         for l in genetic:
             twoLayer = l[-1]
             if twoLayer:
@@ -159,10 +166,10 @@ class Genetic:
             denseUnits = l[0]
         kerasModel.append(tf.keras.layers.Permute((2, 1, 3)))
         kerasModel.append(tf.keras.layers.Reshape([60, denseUnits*257]))
-        kerasModel.append(tf.keras.layers.Dense(257, activation='sigmoid'))
+        kerasModel.append(tf.keras.layers.Dense(257, activation=tf.nn.sigmoid))
         return kerasModel
 
-    def modelFit(self, genetic, x, y, device, q):
+    def modelFit(self, genetic, x, y, x_dev, y_dev, device, q):
         with tf.device(device):
             keras1 = self.genModel(genetic)
             model1 = tf.keras.Sequential(keras1)
@@ -170,18 +177,18 @@ class Genetic:
             # parallel_model.compile(optimizer=tf.optimizers.Adam(), loss='mse')
             # history = parallel_model.fit(x, y, batch_size=self.batchSize*self.G, epochs=self.epoch)
             model1.compile(optimizer=tf.optimizers.Adam(), loss='mse')
-            history = model1.fit(x, y, batch_size=self.batchSize, epochs=self.epoch)
+            history = model1.fit(x, y, batch_size=self.batchSize, epochs=self.epoch, validation_data=(x_dev, y_dev))
             loss = history.history['loss'][-1]
             del model1, history, keras1
             q.put(loss)
         # return loss
 
-    def trainModel(self, x, y):
+    def trainModel(self, x, y, x_dev, y_dev):
         # keras1 = self.genModel(geneticList)
         # model1 = tf.keras.Sequential(keras1)
         # model1.compile(optimizer='adam', loss='mse')
         # hist = model1.fit(x, y, batch_size=32, epochs=3)
-        file = open('./training_log_2.txt', 'w')
+        file = open('./training_log_5.txt', 'w')
         geneticList = []
 
         for population in range(self.population):
@@ -195,9 +202,9 @@ class Genetic:
                 for N in range(0, self.population, 3):
                     q = Queue()
                     t_list = []
-                    t1 = threading.Thread(target=self.modelFit, args=(geneticList[N], x, y, '/gpu:0', q))
-                    t2 = threading.Thread(target=self.modelFit, args=(geneticList[N+1], x, y, '/gpu:1', q))
-                    t3 = threading.Thread(target=self.modelFit, args=(geneticList[N+2], x, y, '/gpu:2', q))
+                    t1 = threading.Thread(target=self.modelFit, args=(geneticList[N], x, y, x_dev, y_dev, '/gpu:0', q))
+                    t2 = threading.Thread(target=self.modelFit, args=(geneticList[N+1], x, y, x_dev, y_dev, '/gpu:1', q))
+                    t3 = threading.Thread(target=self.modelFit, args=(geneticList[N+2], x, y, x_dev, y_dev, '/gpu:2', q))
                     t_list.append(t1)
                     t_list.append(t2)
                     t_list.append(t3)
@@ -212,12 +219,6 @@ class Genetic:
                     L1 = result[0]
                     L2 = result[1]
                     L3 = result[2]
-                    # L1 = self.modelFit(geneticList[N], x, y)
-                    # print('==========================================================')
-                    # L2 = self.modelFit(geneticList[N+1], x, y)
-                    # print('==========================================================')
-                    # L3 = self.modelFit(geneticList[N+2], x, y)
-                    # print('==========================================================')
                     lossList[N] = L1
                     lossList[N+1] = L2
                     lossList[N+2] = L3
